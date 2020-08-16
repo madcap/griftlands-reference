@@ -1,0 +1,8 @@
+
+# Hex to ASCII
+
+* `45 58 50 4C 4F 44 45` EXPLODE
+* `53 43 52 41 50` SCRAP
+* `41 54 54 41 43 4B` ATTACK
+* `46 4F 4C 4C 4F 57` FOLLOW
+* `42 45 41 43 4F 4E` BEACON (summons spark barons)
