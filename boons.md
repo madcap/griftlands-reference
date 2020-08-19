@@ -47,7 +47,7 @@ Notes:
 | Jakes | Bartender |  |  |
 | Jakes | Dockhand | Bargaining | 20 shill discount from shopkeepers. |
 | Jakes | Dodgy Scavenger |  |  |
-| Jakes | Lifter | Quality Materials | Whenever you plan an Item ard, gain 2 Defense. |
+| Jakes | Lifter | Quality Materials | Whenever you play an Item ard, gain 2 Defense. |
 | Jakes | Smuggler | First Aid | Whenever you remove a debuf, Heal 5 health. |
 |  |  |  |  |
 | Spree | Bartender |  |  |

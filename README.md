@@ -2,7 +2,7 @@
 
 Reference Sheets for Griftlands
 
-[Food and drink](food-and-drink.md)
+[Eating and Drinking Things](food-and-drink.md)
 
 [Boons](boons.md)
 
