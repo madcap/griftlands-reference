@@ -17,3 +17,14 @@ Bog Plant:
 * leaves: +5 Resolve, possibly get Horrible Rash (1 cost Negotiation Status card. When drawn get 1 Flustered. Expend.)
 * berries: +5 HP, possibly get Horrible Rash
 * flowers: +5 Resolve, possibly get Horrible Rash
+
+Ximmon Vials [Source](https://www.reddit.com/r/griftlands/comments/i7fdl1/ximmons_vial_experiments_spoilers_intendedsought/)
+* murky green: remove a negotiation card
+* smoking blue: upgrade a negotiation card
+* bubbling orange: +4 max hp
+* swirling purple: grants card Warp Vial (warping, expend, sticky, costs 1 energy)
+    * gain 4 combo
+    * 3 damage, hits all enemy targets
+    * 2 damage, apply 3 wound
+    * gain 2 power
+    * heal 8 health
