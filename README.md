@@ -9,3 +9,5 @@ Reference Sheets for Griftlands
 [Banes](banes.md)
 
 [Hex to ASCII](hex-to-ascii.md)
+
+[Kashio's Auction Items](kashio-items.md)
