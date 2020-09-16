@@ -2,7 +2,10 @@
 # Food and Drink
 
 
-* Curds and Floaters - Card Pickled Floater: gain 5 concentration, 0 cost, 1 use
+Rug
+* Curds and Floaters - gain card Pickled Floater: gain 5 concentration, 0 cost, 1 use
+* Sparkling Oshnu Aspic - gain 5 resolve
+* Tart Stinger Tart - 
 
 
 Bogberries [Source](https://forums.kleientertainment.com/forums/topic/114239-new-character-new-random-events-rooks-events-and-opportunities-list/) (as of older patch):

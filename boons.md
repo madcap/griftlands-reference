@@ -60,7 +60,7 @@ Notes:
 |  |  |  |  |
 | Rise | Lieutenant |  |  |
 | Rise | Organizer | Excavator | The first item card you plan in battle is played twice. |
-| Rise | Pamphleteer |  |  |
+| Rise | Pamphleteer | Propaganda Machine | Start each negotiation with 1 influence. |
 | Rise | Promoted Rebel |  |  |
 | Rise | Radical | War Machine | Receive a free RPG once a day from a member of the Rise. |
 | Rise | Rebel | Morale Boost | At the end of their turn, surrendered allies gain 10% of their maximum health. |
