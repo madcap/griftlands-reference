@@ -40,7 +40,7 @@ Notes:
 | Spark Barons | Promoted Security Guard |  |  |
 | Spark Barons | Regional Manager | Scandal | At the beginning of every negotiation, lose 1 maximum resolve permanently. |
 | Spark Barons | Security Guard | Sketchy Equipment | Take 1 damage whenever you use an item. |
-| Spark Barons | Taskmaster | Crisis | All allies lose morale at teh start of your turn. |
+| Spark Barons | Taskmaster | Crisis | All allies lose morale at the start of your turn. |
 |  |  |  |  |
 | Bilebrokers | Chemist |  |  |
 |  |  |  |  |
