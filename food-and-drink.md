@@ -6,6 +6,9 @@ Rug
 * Curds and Floaters - gain card Pickled Floater: gain 5 concentration, 0 cost, 1 use
 * Sparkling Oshnu Aspic - gain 5 resolve
 * Tart Stinger Tart - 
+* Grawkit Fillets
+    * option: Rug will like you, gain card Sick
+    * option: Rug will dislike you 
 
 
 Bogberries [Source](https://forums.kleientertainment.com/forums/topic/114239-new-character-new-random-events-rooks-events-and-opportunities-list/) (as of older patch):
