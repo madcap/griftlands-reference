@@ -2,7 +2,7 @@
 
 Reference Sheets for Griftlands
 
-[Eating and Drinking Things](food-and-drink.md)
+[Eating and Drinking](food-and-drink.md)
 
 [Boons](boons.md)
 
@@ -11,3 +11,6 @@ Reference Sheets for Griftlands
 [Hex to ASCII](hex-to-ascii.md)
 
 [Kashio's Auction Items](kashio-items.md)
+
+[Game Quirks](game-quirks.md)
+
