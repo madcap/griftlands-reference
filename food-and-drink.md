@@ -2,10 +2,13 @@
 # Food and Drink
 
 
-Rug
+Rug [Source](https://forums.kleientertainment.com/forums/topic/113370-rugs-food/)
 * Curds and Floaters - gain card Pickled Floater: gain 5 concentration, 0 cost, 1 use
 * Sparkling Oshnu Aspic - gain 5 resolve
 * Tart Stinger Tart - 
+* Bogleech Sausage - 
+* Crayote Courage Casserole - 
+* Oshnu Bile Tartare - gain card Well Fed: heal 5, 0 cost, destroy
 * Grawkit Fillets
     * option: Rug will like you, gain card Sick
     * option: Rug will dislike you 
