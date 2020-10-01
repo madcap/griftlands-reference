@@ -36,7 +36,7 @@ Notes:
 | Spark Barons | Freelancer |  |  |
 | Spark Barons | Lieutenant |  |  |
 | Spark Barons | Professional | Spark Visor | (Hit a marked enemy to gain 3 defense.) |
-| Spark Barons | Promoted Security Guard |  |  |
+| Spark Barons | Promoted Security Guard | Weapons Supplier | Receive a random item card every morning. |
 | Spark Barons | Regional Manager | Scheme | At the start of every negotiation gain either 3 Influence or Dominance. Choose randomly. |
 | Spark Barons | Security Guard | Weapons Supplier | Receive a random item card every morning. |
 | Spark Barons | Taskmaster | Torpor Fiend | When you sleep, gain 2 exerpience on a random card. |
