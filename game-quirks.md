@@ -18,4 +18,4 @@
 
 
 ### Sal's Campaign
-* if you rely on making multiple attacks each turn to deal damage take the Sonic Pistol if it is offered during the auction. if you do not, Kashio will have a large amount of counter every other turn
+* if you rely on making multiple attacks each turn to deal damage take the Sonic Pistol (aka Discharge Pistol) if it is offered during the auction. if you do not, Kashio will have a large amount of counter every other turn

@@ -14,3 +14,4 @@ Reference Sheets for Griftlands
 
 [Game Quirks](game-quirks.md)
 
+[Hatch Cards](hatch.md)
