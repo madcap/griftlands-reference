@@ -3,6 +3,7 @@
 
 
 Rug [Source](https://forums.kleientertainment.com/forums/topic/113370-rugs-food/)
+* Fungus and MettleNettle Brownies - gain card Hearty: restore 5 resolve, destroy, 0 cost
 * Curds and Floaters - gain card Pickled Floater: gain 5 concentration, 0 cost, 1 use
 * Sparkling Oshnu Aspic - gain 5 resolve
 * Tart Stinger Tart - 

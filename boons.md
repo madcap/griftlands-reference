@@ -30,6 +30,7 @@ Notes:
 | Cult of Hesh | Luminari | Bell of Hesh | Draw 1 extra card at the start of negotiation. |
 | Cult of Hesh | Priest | Bio-Feedback | Status Cards cost 1 less action in battle. |
 | Cult of Hesh | Zealot | Grade of Hesh | Heal 3 health whenever you win a negotiation. |
+| Cult of Hesh | Luminitiate | Throng | The first argument you create each negotiation ahs 2 bonus resolve. |
 |  |  |  |  |
 | Spark Barons | Boss | System Shock | If you didn't attack last turn, gain 2 Temporary Power. |
 | Spark Barons | Drone Master |  |  |
@@ -68,6 +69,6 @@ Notes:
 | Rentorians | Hunter |    |  |
 |  |  |  |  |
 | Boggers | Bogger  |  |  |
-| Boggers | Clobber |  |  |
+| Boggers | Clobber | Bogger Pauldrons | At end of your turn, gain 1-3 defense. |
 | Boggers | Cultivator | Inoculated | Whenever you draw a Parasite ard, heal 2 health or restore 2 resolve. |
 | Boggers | High Priest |  |  |
