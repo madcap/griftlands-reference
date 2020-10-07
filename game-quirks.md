@@ -10,6 +10,9 @@
 * fatigued (no longer gaining card experience) is a debuff that can be removed. it is re-applied each turn
 * temporary power is actually a power buff and a remove power at end of turn debuff. the remove power at end of turn debuff can be removed
 * stunned enemies can no longer counter attacks. the attack that causes the stun will not be countered
+* Company Band graft (+10 pet health in battle) effectively heals your pet by 10 hp at the start of every battle
+* Bile Grenade does not consume evasion stacks
+* Counter does consume evasion stacks
 
 
 ### Gameplay:
