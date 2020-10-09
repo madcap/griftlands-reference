@@ -13,6 +13,7 @@
 * Company Band graft (+10 pet health in battle) effectively heals your pet by 10 hp at the start of every battle
 * Bile Grenade does not consume evasion stacks
 * Counter does consume evasion stacks
+* Counter does not trigger Counter
 
 
 ### Gameplay:
